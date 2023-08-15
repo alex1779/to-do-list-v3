@@ -8,8 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [💻 Awesome books Presentation](#vgs-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -57,25 +55,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Here you can visit my live demo :
-
-- [N/A]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 💻 Awesome books <a name="vgs-presentation"></a>
-
-> Here you can see my presentation :
-
-- [N/A]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -99,7 +78,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/alex1779/To_do_list.git
+  git clone https://github.com/alex1779/to-do-list-v3.git
 ```
 
 -
