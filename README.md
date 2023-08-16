@@ -8,6 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -52,6 +53,17 @@
 
 - **Remove function to the list.**
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here you can visit my live demo :
+
+- Live Demo: [Live Demo](https://alex1779.github.io/to-do-list-v3/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
