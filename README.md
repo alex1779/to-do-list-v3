@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do list: add and remove <a name="about-project"></a>
+# 📖 To Do list: Remove function to the list. <a name="about-project"></a>
 
 > In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
 
@@ -50,10 +50,8 @@
 
 > Here are some key features of the application :
 
-- **Adding items from the input**
-- **Editing items**
-- **Delete items**
-*
+- **Remove function to the list.**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
